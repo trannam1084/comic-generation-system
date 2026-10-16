@@ -1,1 +1,1 @@
-# comic-generetion-system
+# comic-generation-system
